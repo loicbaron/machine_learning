@@ -5,3 +5,4 @@ pandas  >= 1.2.4
 scikit-learn >= 0.24.1
 scipy >= 1.4.1
 seaborn >= 0.10.1
+ipympl >= 0.9.7
